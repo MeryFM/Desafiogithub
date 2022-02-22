@@ -1,5 +1,7 @@
 :root {
     font-family: 'Supermercado One', cursive;
+    --animate-duration: 1000ms;
+    --animate-delay: 0.9s;
 }
 
 /* Modificar / Apagar los valores default */
@@ -159,3 +161,4 @@ footer {
     align-self: center;
     color: black;
 }
+
